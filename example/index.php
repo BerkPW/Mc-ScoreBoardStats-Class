@@ -7,7 +7,7 @@ $sbst -> host = "localhost";
 $sbst -> user = "root";
 $sbst -> pass = "root";
 $sbst -> db = "sbst";
-$sbst -> db = "player_stats";
+$sbst -> table = "player_stats";
 $sbst -> limit = 10;
 
 $sbst -> mysql();
